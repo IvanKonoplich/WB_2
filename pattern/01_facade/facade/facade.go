@@ -1,7 +1,7 @@
 package facade
 
 import (
-	systemComponents2 "WB2/pattern/facade/system_components"
+	systemComponents2 "WB2/pattern/01_facade/system_components"
 )
 
 type facade struct {

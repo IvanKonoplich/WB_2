@@ -1,9 +1,9 @@
 package app
 
 import (
-	controller2 "WB2/develop/11/internal/controller"
-	"WB2/develop/11/internal/infrastructure/storage"
-	"WB2/develop/11/internal/usecases"
+	controller2 "WB2/develop/dev11/internal/controller"
+	"WB2/develop/dev11/internal/infrastructure/storage"
+	"WB2/develop/dev11/internal/usecases"
 )
 
 // InitApp создает все необходимые объекты для работы сервера

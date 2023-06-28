@@ -1,6 +1,6 @@
 package gun
 
-import "WB2/pattern/factory/interfaces"
+import "WB2/pattern/06_factory_method/interfaces"
 
 type ak47 struct {
 	gun

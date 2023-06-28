@@ -1,6 +1,6 @@
 package shapes
 
-import "WB2/pattern/visitor/interfaces"
+import "WB2/pattern/03_visitor/interfaces"
 
 type circle struct {
 	radius int

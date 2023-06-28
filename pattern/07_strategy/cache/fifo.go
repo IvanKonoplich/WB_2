@@ -1,7 +1,7 @@
 package cache
 
 import (
-	"WB2/pattern/strategy/interfaces"
+	"WB2/pattern/07_strategy/interfaces"
 	"fmt"
 )
 
@@ -13,5 +13,5 @@ func NewFifo() *fifo {
 }
 
 func (l *fifo) Evict(c interfaces.Cache) {
-	fmt.Println("Evicting by fifo strategy")
+	fmt.Println("Evicting by fifo 07_strategy")
 }

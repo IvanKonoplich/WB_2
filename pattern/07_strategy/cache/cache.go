@@ -1,6 +1,6 @@
 package cache
 
-import "WB2/pattern/strategy/interfaces"
+import "WB2/pattern/07_strategy/interfaces"
 
 type cache struct {
 	storage      map[string]string

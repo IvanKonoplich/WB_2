@@ -1,6 +1,6 @@
 package tv
 
-import "WB2/pattern/command/interfaces"
+import "WB2/pattern/04_command/interfaces"
 
 type offCommand struct {
 	device interfaces.Device

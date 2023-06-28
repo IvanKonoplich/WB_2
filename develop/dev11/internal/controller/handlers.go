@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"WB2/develop/11/internal/entities"
+	"WB2/develop/dev11/internal/entities"
 	"encoding/json"
 	"fmt"
 	"io"

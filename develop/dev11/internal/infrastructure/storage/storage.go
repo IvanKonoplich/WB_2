@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"WB2/develop/11/internal/entities"
+	"WB2/develop/dev11/internal/entities"
 )
 
 // Storage - это абстракция хранилища, которая в данном случае реализуется через map

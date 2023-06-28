@@ -1,8 +1,13 @@
 package main
 
+/*
+	Паттерн «посетитель».
+Шаблон "Посетитель" - это поведенческий паттерн проектирования, который позволяет добавлять поведение в
+структуру без фактического её изменения.
+*/
 import (
-	"WB2/pattern/visitor/shapes"
-	"WB2/pattern/visitor/visitor"
+	"WB2/pattern/03_visitor/shapes"
+	"WB2/pattern/03_visitor/visitor"
 	"fmt"
 )
 

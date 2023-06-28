@@ -1,7 +1,7 @@
 package machine
 
 import (
-	"WB2/pattern/state/interfaces"
+	"WB2/pattern/08_state/interfaces"
 	"fmt"
 )
 

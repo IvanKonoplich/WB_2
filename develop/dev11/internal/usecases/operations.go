@@ -1,7 +1,7 @@
 package usecases
 
 import (
-	"WB2/develop/11/internal/entities"
+	"WB2/develop/dev11/internal/entities"
 	"errors"
 )
 

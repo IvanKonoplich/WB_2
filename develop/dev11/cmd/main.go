@@ -1,7 +1,7 @@
 package main
 
 import (
-	"WB2/develop/11/internal/app"
+	"WB2/develop/dev11/internal/app"
 	"fmt"
 	"github.com/spf13/viper"
 	"log"
@@ -15,7 +15,7 @@ func main() {
 func getConfig() {
 	viper.SetConfigName("config")
 	viper.SetConfigType("yaml")
-	viper.AddConfigPath("11/config/")
+	viper.AddConfigPath("develop/dev11/config/")
 	err := viper.ReadInConfig()
 	if err != nil {
 		panic(fmt.Errorf("fatal error config file: %w", err))

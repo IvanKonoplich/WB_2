@@ -1,7 +1,7 @@
 package visitor
 
 import (
-	"WB2/pattern/visitor/interfaces"
+	"WB2/pattern/03_visitor/interfaces"
 	"fmt"
 )
 

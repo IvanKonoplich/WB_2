@@ -1,7 +1,7 @@
 package gun
 
 import (
-	"WB2/pattern/factory/interfaces"
+	"WB2/pattern/06_factory_method/interfaces"
 	"errors"
 )
 

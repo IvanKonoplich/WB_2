@@ -1,8 +1,8 @@
 package hospital
 
 import (
-	"WB2/pattern/chain-of-responsibility/interfaces"
-	"WB2/pattern/chain-of-responsibility/patient"
+	"WB2/pattern/05_chain-of-responsibility/interfaces"
+	"WB2/pattern/05_chain-of-responsibility/patient"
 	"fmt"
 )
 
